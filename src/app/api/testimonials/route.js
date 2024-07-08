@@ -2,20 +2,20 @@ export async function GET(request) {
   return new Response(
     JSON.stringify([
       {
-        body: "First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.",
-        designation: "Executive",
+        body: "Taking classes at PassionDanse has been a transformative experience for me. The instructors are incredibly skilled and supportive, and I've seen so much improvement in my technique and confidence. I love being part of this vibrant dance community!",
+        designation: "Software Engineer",
         userId: 1,
         userName: "Linia korie",
       },
       {
-        body: "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
-        designation: "Writer",
+        body: "PassionDanse offers a welcoming and inspiring environment for dancers of all levels. The variety of classes and the expertise of the teachers have truly helped me grow as a dancer. I always leave class feeling energized and motivated.",
+        designation: "Marketing Specialist",
         userId: 2,
         userName: "Devid Bell",
       },
       {
-        body: "Ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
-        designation: "Co-Executive",
+        body: "I joined PassionDanse to try something new, and it has exceeded all my expectations. The classes are fun and challenging, and the instructors are passionate about what they do. I've met wonderful people and gained a deeper appreciation for dance.",
+        designation: "Nurse",
         userId: 3,
         userName: "Horray coreal",
       },

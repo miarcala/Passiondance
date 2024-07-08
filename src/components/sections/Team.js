@@ -3,8 +3,8 @@ import SingleMember from "@/components/SingleMember";
 const members = [
   {
     id: 1,
-    name: "Joseph Austin",
-    specialist: "Thai Message",
+    name: "Sophie Martin",
+    specialist: "Classic Danse",
     social: {
       facebook: "https://facebook.com",
       twitter: "https://twitter.com",
@@ -13,8 +13,8 @@ const members = [
   },
   {
     id: 2,
-    name: "David Hannan",
-    specialist: "Thai Message",
+    name: "Isabella Lopez",
+    specialist: "Contemporary Dance",
     social: {
       facebook: "https://facebook.com",
       twitter: "https://twitter.com",
@@ -24,8 +24,8 @@ const members = [
   },
   {
     id: 3,
-    name: "Cheryl Harris",
-    specialist: "Thai Message",
+    name: "Alexandre Dubois",
+    specialist: "Urban Danse",
     social: {
       facebook: "https://facebook.com",
       twitter: "https://twitter.com",
@@ -57,9 +57,9 @@ export default function Team(props) {
             <div className="sec-heading">
               <h3 className="sec-title">Experienced Team</h3>
               <p>
-                To doesn't his appear replenish together called he of mad place
-                won't wherein blessed second every wherein were meat kind
-                wherein and martcin
+                PassionDanse is proud to have a team of dedicated and experienced dance instructors 
+                who are passionate about sharing their love for dance. Our instructors bring diverse backgrounds and expertise, 
+                ensuring that every student receives top-quality guidance and support.
               </p>
             </div>
           </div>

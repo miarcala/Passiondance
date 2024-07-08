@@ -1,0 +1,15 @@
+{
+  "/[...not-found]/page": "app/[...not-found]/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/comments/route": "app/api/comments/route.js",
+  "/api/services/route": "app/api/services/route.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/api/features/route": "app/api/features/route.js",
+  "/blog/page": "app/blog/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/api/testimonials/route": "app/api/testimonials/route.js",
+  "/services/page": "app/services/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/(home)/page": "app/(home)/page.js"
+}

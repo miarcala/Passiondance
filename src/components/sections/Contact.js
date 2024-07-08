@@ -36,9 +36,8 @@ export default function Contact(props) {
             <div className="sec-heading">
               <h3 className="sec-title">Get In Touch</h3>
               <p>
-                To doesn't his appear replenish together called he of mad place
-                won't wherein blessed second every wherein were meat kind
-                wherein and martcin
+                Contact us today to sign up for our dance classes and discover all that PassionDanse has to offer. 
+                Take the first step towards an exciting journey and join our dynamic community of dance enthusiasts!
               </p>
             </div>
           </div>
@@ -54,8 +53,8 @@ export default function Contact(props) {
                 </address>
                 <address>
                   <span className="ti-email"></span>
-                  <a href="mailto:example@leospa.com">example@leospa.com</a>
-                  <a href="mailto:example@leospa.com">example@leospa.com</a>
+                  <a href="mailto:example@leospa.com">passiondance@gmail.com</a>
+                  <a href="mailto:example@leospa.com">passiondance@gmail.com</a>
                 </address>
                 <address>
                   <span className="ti-tablet"></span>

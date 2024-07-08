@@ -46,11 +46,10 @@ export default function Procedure(props) {
         <div className="row">
           <div className="col-lg-8 col-md-10 m-auto">
             <div className="sec-heading">
-              <h3 className="sec-title">Popular Procedures</h3>
+              <h3 className="sec-title">Our services</h3>
               <p>
-                To doesn't his appear replenish together called he of mad place
-                won't wherein blessed second every wherein were meat kind
-                wherein and martcin
+                PassionDanse offers a variety of dance styles that cater to all tastes and skill levels. 
+                Explore our classes to find the perfect fit for your passion and discover new ways to express yourself through dance.
               </p>
             </div>
           </div>

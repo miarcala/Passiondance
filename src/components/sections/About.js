@@ -12,14 +12,15 @@ const aboutSec = (props) => {
           <div className="col-lg-10 col-md-12 m-auto">
             <div className="sec-heading">
               <img src="assets/images/butterfly.png" alt="" />
-              <span className="tagline">About our spa center</span>
-              <h3 className="sec-title">Come and you will be Inspired!</h3>
+              <span className="tagline">About our training center</span>
+              <h3 className="sec-title">Explore the potential buried inside you!</h3>
               <p>
-                It’s the end of summer the sweltering heat makes human sweat in
-                the night and makes the plants and trees wilt even in the
-                moonlit nights. The eastern wind breeze brings an eerie feeling,
-                that the monsoon clouds are soon coming, there is a strange
-                silence in the ears, the sky gets darker and darker
+              PassionDanse is the perfect place for all dance enthusiasts,
+              whether beginners or advanced. Our classes, led by experienced teachers,
+              cover various styles such as ballet, jazz, hip-hop, and contemporary dance.
+              More than a dance school, PassionDanse creates a space where dancers can meet,
+              share experiences, and inspire each other. 
+              Join PassionDanse and be part of a vibrant community where the passion for dance is celebrated every day.
               </p>
             </div>
             <Link href="/about" className="btn btn-round">

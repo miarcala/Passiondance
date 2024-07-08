@@ -13,12 +13,11 @@ export default function Banner(props) {
         <div className="row">
           <div className="col-lg-6">
             <div className="banner-content">
-              <span>spa & beauty center</span>
-              <h2>Beauty and success starts here.</h2>
+              <span>Learning center</span>
+              <h2>Where art comes to life.</h2>
               <p>
-                Together creeping heaven upon third dominion be upon won't
-                darkness rule behold it created good saw after she'd Our set
-                living.
+              Join us at PassionDanse and ignite your passion for dance 
+              Enroll in our classes today and be part of our vibrant community!
               </p>
               <Link href="/" className="btn btn-round">
                 reserve now

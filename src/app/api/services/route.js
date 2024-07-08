@@ -4,38 +4,38 @@ export async function GET(request) {
       {
         body: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.\n\n Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
         excerpt:
-          "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+          "An elegant and technical dance characterized by precise movements and graceful positions.",
         id: 0,
         meta: {
           categories: ["creative"],
           created: "02 July, 2019",
           tags: ["Women fashion"],
         },
-        title: "Massage Therapy",
+        title: "Classic Danse",
       },
       {
-        body: "Est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+        body: "An expressive and creative form of dance, combining elements of modernity and improvisation.",
         excerpt:
-          "Est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+          "An expressive and creative form of dance, combining elements of modernity and improvisation.",
         id: 1,
         meta: {
           categories: ["design"],
           created: "08 june, 2019",
           tags: ["men fashion"],
         },
-        title: "Beauty Care",
+        title: "Contemporary Dance ",
       },
       {
-        body: "Et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+        body: "A dynamic and energetic dance, inspired by street styles like hip-hop and breakdancing.",
         excerpt:
-          "Et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+          "A dynamic and energetic dance, inspired by street styles like hip-hop and breakdancing.",
         id: 2,
         meta: {
           categories: ["creative, design"],
           created: "12 august, 2019",
           tags: ["clothing"],
         },
-        title: "Executive Reflexology",
+        title: "Urban Dance",
       },
     ])
   );

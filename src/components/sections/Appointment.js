@@ -64,9 +64,9 @@ export default function Appointment(props) {
                   value={appointment.service}
                 >
                   <option>Select service</option>
-                  <option>Service 1</option>
-                  <option>Service 2</option>
-                  <option>Service 3</option>
+                  <option>Classic Danse</option>
+                  <option>Contemporary Dance</option>
+                  <option>Urban Dance</option>
                 </select>
               </div>
               <input
