@@ -1,15 +1,15 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/comments/route": "app/api/comments/route.js",
-  "/api/posts/route": "app/api/posts/route.js",
-  "/api/testimonials/route": "app/api/testimonials/route.js",
-  "/api/features/route": "app/api/features/route.js",
   "/about/page": "app/about/page.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/api/comments/route": "app/api/comments/route.js",
+  "/api/features/route": "app/api/features/route.js",
+  "/[...not-found]/page": "app/[...not-found]/page.js",
   "/api/services/route": "app/api/services/route.js",
+  "/blog/page": "app/blog/page.js",
+  "/api/testimonials/route": "app/api/testimonials/route.js",
   "/services/page": "app/services/page.js",
   "/contact/page": "app/contact/page.js",
-  "/blog/page": "app/blog/page.js",
-  "/[...not-found]/page": "app/[...not-found]/page.js",
   "/(home)/page": "app/(home)/page.js",
   "/blog/[slug]/page": "app/blog/[slug]/page.js"
 }
