@@ -1,13 +1,16 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from "swiper";
 import SingleTestimonial from "@/components/SingleTestimonial";
+import { useEffect, useState } from "react";
+import SwiperCore, { Pagination } from "swiper";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
-import "swiper/swiper.min.css";
+import "swiper/css";
 import "swiper/css/pagination";
+
+// Install modules
+SwiperCore.use([Pagination]);
 
 export default function Testimonial(props) {
   const [testimonials, setTestimonials] = useState([]);
@@ -31,8 +34,7 @@ export default function Testimonial(props) {
           <div className="col-lg-10 col-md-12 m-auto">
             <Swiper
               slidesPerView={1}
-              pagination
-              modules={[Pagination]}
+              pagination={{ clickable: true }}
               className="mySwiper"
             >
               {testimonials.map((tsml, index) => {

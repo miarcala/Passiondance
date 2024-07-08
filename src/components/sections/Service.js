@@ -1,11 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import SwiperCore, { Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay } from "swiper";
 
 // Import Swiper styles
-import "swiper/swiper.min.css";
+import "swiper/css";
+import "swiper/css/autoplay";
+
+// Install modules
+SwiperCore.use([Autoplay]);
 
 export default function Service(props) {
   const [features, setFeatures] = useState([]);
@@ -29,7 +33,6 @@ export default function Service(props) {
           spaceBetween={5}
           autoplay={true}
           loop={true}
-          modules={[Autoplay]}
         >
           {features.map((feature, index) => {
             return (

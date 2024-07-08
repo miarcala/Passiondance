@@ -1,24 +1,16 @@
 {
-  "name": "spa-latest",
+  "name": "your-project-name",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://miarcala.github.io/Passiondanse",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
-    "gh-pages": "^6.1.1",
-    "next": "^14.2.4",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "swiper": "^9.3.2"
-  },
-  "devDependencies": {
-    "node-sass": "^9.0.0"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sass": "^1.77.6",
+    "swiper": "^11.1.4"
   }
 }
