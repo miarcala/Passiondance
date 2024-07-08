@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   experimental: {
-    // Ajoutez ici d'autres configurations expérimentales si nécessaire
+    // Any other experimental features you may be using
   },
 };
 

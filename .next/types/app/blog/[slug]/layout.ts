@@ -1,4 +1,4 @@
-// File: C:\Users\seren\OneDrive\Documents\Projet2-SEG3525\Passiondanse\Passiondanse-Next\src\app\blog\[slug]\layout.js
+// File: C:\Users\seren\OneDrive\Documents\Projet2-SEG3525\Projet2version1\Passiondance\src\app\blog\[slug]\layout.js
 import * as entry from '../../../../../src/app/blog/[slug]/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
